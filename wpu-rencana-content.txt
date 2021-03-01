@@ -4,6 +4,7 @@ rencana konten
  - asjlfjfljlkfjkf
 - ajsdkasjdlkadjs
  - sdjfksdfjldsj
+- react
 - fundamental
 - asdfsa
 - jsadfl
