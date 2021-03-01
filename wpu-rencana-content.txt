@@ -2,6 +2,9 @@ rencana konten
 - asfsadf
  - jsfdkjasfdl
  - asjlfjfljlkfjkf
+- ajsdkasjdlkadjs
+ - sdjfksdfjldsj
+- react
 - fundamental
 - asdfsa
 - jsadfl
